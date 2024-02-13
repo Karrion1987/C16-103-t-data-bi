@@ -22,9 +22,9 @@
 
 <!-- ABOUT THE PROJECT -->
 <br>
-<h1> 
+<h2> 
 Acerca del Proyecto
-</h1>
+</h2>
 
 'Fintech Solutions' es Sistema de Predicción de Fraude en Transacciones Financieras </b>. 
 
