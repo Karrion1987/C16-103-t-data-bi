@@ -31,9 +31,9 @@ Acerca del Proyecto
 <strong></strong>
 
 
-<h1> 
+<h2> 
 Introducción⚠️ 🚧
-</h1>
+</h2>
 
 Desde la llegada de Internet, la revolución digital ha aumentado y se ha infiltrado en todos los aspectos de nuestras vidas. Una de las revoluciones digitales más importantes ocurrió en el sistema financiero y especialmente en las transacciones de dinero a alguien de cualquier parte del mundo de forma digital. Las transacciones digitales se han convertido en parte de la vida diaria, como comprar un producto en línea, enviar dinero a amigos, depositar efectivo en una cuenta bancaria, fines de inversión, etc. Tenían muchos beneficios y allanaron el camino para actividades fraudulentas. La gente comenzó a utilizar un medio de transacciones de dinero digital para lavar dinero y hacer que parezca que proviene de una fuente legal. 
 
