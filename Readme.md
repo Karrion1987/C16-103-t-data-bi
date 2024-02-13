@@ -161,7 +161,7 @@ Este es un ejemplo de 1 fila con explicación de encabezados:
 + **isFlaggedFraud:**  El modelo de negocio tiene como objetivo controlar las transferencias masivas de una cuenta a otra y detectar intentos ilegales. Un intento ilegal en este conjunto de datos es un intento de transferir más de 200.000 en una sola transacción.
 
 
- * **VICTIMAS**
+
 
 
 ### Análisis de los datos⛔
