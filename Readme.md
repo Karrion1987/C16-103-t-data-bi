@@ -10,6 +10,13 @@
     <strong> Sistema de Predicción de Fraude en Transacciones Financieras </strong>. Ofrecemos una solución práctica y simple para ayudar a identificar las transacciones fraudulentas y detectandolas con la mayor performance posible.
 
   </p>
+    <div align='center'>
+    <a href="https://stockwise-client.vercel.app/" target="_blank">
+          <img  src="https://img.shields.io/badge/VER_DEMO-3378FF?style=for-the-badge&logo=vercel&logoColor=%23343B4E"/>
+       </a>
+   <a href="https://stockwise-iowo.onrender.com/swagger-ui/index.html" target="_blank">
+          <img  src="https://img.shields.io/badge/VER_API-3378FF?style=for-the-badge&logo=swagger&logoColor=%23343B4E"/>
+      </a>
  
 </div>
 
