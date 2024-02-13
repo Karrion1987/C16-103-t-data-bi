@@ -20,15 +20,7 @@
  
 </div>
 
-<!-- ABOUT THE PROJECT -->
-<br>
-<h2> 
-Acerca del Proyecto
-</h2>
 
-'Fintech Solutions' es Sistema de Predicción de Fraude en Transacciones Financieras </b>. 
-
-<strong></strong>
 
 
 <h2> 
