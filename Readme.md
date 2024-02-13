@@ -11,10 +11,10 @@
 
   </p>
     <div align='center'>
-    <a href="https://stockwise-client.vercel.app/" target="_blank">
+    <a href="">
           <img  src="https://img.shields.io/badge/VER_DEMO-3378FF?style=for-the-badge&logo=vercel&logoColor=%23343B4E"/>
        </a>
-   <a href="https://stockwise-iowo.onrender.com/swagger-ui/index.html" target="_blank">
+   <a href="" target="_blank">
           <img  src="https://img.shields.io/badge/VER_API-3378FF?style=for-the-badge&logo=swagger&logoColor=%23343B4E"/>
       </a>
  
