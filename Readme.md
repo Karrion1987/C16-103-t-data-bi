@@ -37,7 +37,7 @@ Detección de fraude en transacciones de dinero móvil. Predecir si la transacci
 
 + `Proceso de ETL (Extracción, limpieza y carga de datos)` [ETL]() 
 
-+ `Proceso de EDA (Análisis Exploratorio de los datos)`  [EDA]() 
++ `Proceso de EDA (Análisis Exploratorio de los datos)`  [EDA]()
 
 Las primeras visualizaciones contienen el número de transacciones según el tipo de transacción, tipo de remitente y destinatario.
 
@@ -168,7 +168,6 @@ Este es un ejemplo de 1 fila con explicación de encabezados:
 
 
   
--`A:` 
 
 
 ![Mapa de Calor]()
@@ -176,6 +175,8 @@ Este es un ejemplo de 1 fila con explicación de encabezados:
 
 
 ### Indicadores de Rendimiento Clave KPI⛔
+
+
 
 
 
