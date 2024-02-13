@@ -1,4 +1,4 @@
-## **Proyecto Fintech** Prediccion de Fraude en Transacciones Financieras
+## **Proyecto Fintech** | Prediccion de Fraude en Transacciones Financieras
 
 
 
