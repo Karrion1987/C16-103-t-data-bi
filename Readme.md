@@ -101,7 +101,7 @@ Un valor atípico es una observación que está numéricamente distante del rest
 
 Los valores atípicos pueden ser de dos tipos: univariados y multivariados. Arriba, hemos discutido el ejemplo del valor atípico univariado. Estos valores atípicos se pueden encontrar cuando observamos la distribución de una sola variable. Los valores atípicos multivariados son valores atípicos en un espacio n-dimensional.
 
-Metodos:
+**Metodos:**
 
 1. *Hypothesis Testing*
 
