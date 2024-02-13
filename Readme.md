@@ -174,27 +174,27 @@ Este es un ejemplo de 1 fila con explicación de encabezados:
 
 1,PAGO,1060.31,C429214117,1089.0,28.69,M1591654462,0.0,0.0,0,0
 
-+ **paso:** Asigna una unidad de tiempo en el mundo real. En este caso 1 paso es 1 hora de tiempo. Pasos totales 744 (simulación de 30 días).
++ **step:** - integer - Asigna una unidad de tiempo en el mundo real. En este caso 1 paso es 1 hora de tiempo. Pasos totales 744 (simulación de 30 días).
 
-+ **tipo:** ENTRADA DE EFECTIVO, SALIDA DE EFECTIVO, DÉBITO, PAGO y TRANSFERENCIA.
++ **type:** - string/categorical - ENTRADA DE EFECTIVO, SALIDA DE EFECTIVO, DÉBITO, PAGO y TRANSFERENCIA.
 
-+ **cantidad:** Monto de la transacción en moneda local.
++ **amount:** - float - Monto de la transacción en moneda local.
 
-+ **nameOrig:** Cliente que inició la transacción
++ **nameOrig:** - string - Cliente que inició la transacción
 
-+ **oldbalanceOrg:**  Saldo inicial antes de la transacción
++ **oldbalanceOrg:** - float - Saldo inicial antes de la transacción
 
-+ **newbalanceOrig:**  Nuevo saldo después de la transacción.
++ **newbalanceOrig:** - float - Nuevo saldo después de la transacción.
 
-+ **nameDest:**  Cliente que es el destinatario de la transacción
++ **nameDest:** - string - Cliente que es el destinatario de la transacción
 
-+ **oldbalanceDest:**  Destinatario del saldo inicial antes de la transacción. Tenga en cuenta que no hay información para los clientes que comienzan con M (Comerciantes).
++ **oldbalanceDest:** - float - Destinatario del saldo inicial antes de la transacción. Tenga en cuenta que no hay información para los clientes que comienzan con M (Comerciantes).
 
-+ **newbalanceDest:**  Destinatario del nuevo saldo después de la transacción. Tenga en cuenta que no hay información para los clientes que comienzan con M (Comerciantes).
++ **newbalanceDest:** - float - Destinatario del nuevo saldo después de la transacción. Tenga en cuenta que no hay información para los clientes que comienzan con M (Comerciantes).
 
-+ **isFraud:**  Son las transacciones realizadas por los agentes fraudulentos dentro de la simulación. En este conjunto de datos específico, el comportamiento fraudulento de los agentes tiene como objetivo obtener ganancias tomando el control de las cuentas de los clientes e intentar vaciar los fondos transfiriéndolos a otra cuenta y luego cobrándolos del sistema.
++ **isFraud:** - boolean/binary - Son las transacciones realizadas por los agentes fraudulentos dentro de la simulación. En este conjunto de datos específico, el comportamiento fraudulento de los agentes tiene como objetivo obtener ganancias tomando el control de las cuentas de los clientes e intentar vaciar los fondos transfiriéndolos a otra cuenta y luego cobrándolos del sistema.
 
-+ **isFlaggedFraud:**  El modelo de negocio tiene como objetivo controlar las transferencias masivas de una cuenta a otra y detectar intentos ilegales. Un intento ilegal en este conjunto de datos es un intento de transferir más de 200.000 en una sola transacción.
++ **isFlaggedFraud:** - boolean/binary - El modelo de negocio tiene como objetivo controlar las transferencias masivas de una cuenta a otra y detectar intentos ilegales. Un intento ilegal en este conjunto de datos es un intento de transferir más de 200.000 en una sola transacción.
 
 
 
