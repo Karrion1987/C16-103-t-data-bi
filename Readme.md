@@ -54,6 +54,19 @@ Detección de fraude en transacciones de dinero móvil. Predecir si la transacci
 + Construir un modelo de aprendizaje automático para clasificar transacciones fraudulentas y no fraudulentas.
 + Reducir los falsos negativos ajustando el modelo.
 
+  
+
+## **Tecnologías Utilizadas**
+
+- ![Python](https://example.com/python-icon.png) Python
+- ![Jupyter Notebooks](https://example.com/jupyter-icon.png) Jupyter Notebooks
+- ![Pandas](https://example.com/pandas-icon.png) Pandas
+- ![NumPy](https://example.com/numpy-icon.png) NumPy
+- ![Matplotlib](https://example.com/matplotlib-icon.png) Matplotlib
+- ![Seaborn](https://example.com/seaborn-icon.png) Seaborn
+- ![Scikit-Learn](https://example.com/scikit-learn-icon.png) Scikit-Learn
+
+
 
 ## **Desarrollo**⚠️ 🚧
 
