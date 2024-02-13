@@ -4,26 +4,13 @@
 <br />
   <div align='center'>
   
-<h3>Bienvenid@s a StockWise</h3></div>
+<h3>Bienvenid@s a Fintech Fraud Solutions </h3></div>
 <div>
   <p>
     <strong>Sistema de Predicción de Fraude en Transacciones Financieras</strong>. Ofrecemos una solución práctica y simple para ayudar a identificar las transacciones fraudulentas y marcarlas con la mayor performance posible.
 
   </p>
-    <div align='center'>
-    <a href="https://stockwise-client.vercel.app/" target="_blank">
-          <img  src="https://img.shields.io/badge/VER_DEMO-3378FF?style=for-the-badge&logo=vercel&logoColor=%23343B4E"/>
-       </a>
-   <a href="https://stockwise-iowo.onrender.com/swagger-ui/index.html" target="_blank">
-          <img  src="https://img.shields.io/badge/VER_API-3378FF?style=for-the-badge&logo=swagger&logoColor=%23343B4E"/>
-      </a>
-    <a href="https://www.figma.com/file/lIB64kDohOKOsdSNGkOSue/c14-22-ft-java-react" target="_blank">
-          <img  src="https://img.shields.io/badge/VER_DISE%C3%91O-3378FF?style=for-the-badge&logo=figma&logoColor=%23343B4E"/>
-      </a>
-      <a href="https://github.com/No-Country/c14-22-ft-java-react/issues" target="_blank">
-          <img  src="https://img.shields.io/badge/REPORTAR_BUG-343B4E?style=for-the-badge"/>
-      </a>
-      </div>
+ 
 </div>
 
 
