@@ -4,7 +4,7 @@
 <br />
   <div align='center'>
   
-<h3>Bienvenid@s a Fintech Fraud Solutions </h3></div>
+<h5> <strong> Bienvenid@s a Fintech Fraud Solutions </strong> </h5></div>
 <div>
   <p>
     <strong> Sistema de Predicción de Fraude en Transacciones Financieras </strong>. Ofrecemos una solución práctica y simple para ayudar a identificar las transacciones fraudulentas y detectandolas con la mayor performance posible.
@@ -20,26 +20,6 @@
  
 </div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## **Proyecto Fintech** | Prediccion de Fraude en Transacciones Financieras
 
 
 
