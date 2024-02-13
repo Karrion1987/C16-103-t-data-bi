@@ -26,7 +26,7 @@
 Acerca del Proyecto
 </h1>
 
-'Fintech Solutions' es un Sistema de ........</b>. 
+'Fintech Solutions' es Sistema de Predicción de Fraude en Transacciones Financieras </b>. 
 
 <strong></strong>
 
