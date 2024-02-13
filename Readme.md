@@ -58,13 +58,13 @@ Detección de fraude en transacciones de dinero móvil. Predecir si la transacci
 
 ## **Tecnologías Utilizadas**
 
-- ![Python](https://icons8.com/icon/13441/python) Python
-- ![Jupyter Notebooks](https://example.com/jupyter-icon.png) Jupyter Notebooks
-- ![Pandas](https://example.com/pandas-icon.png) Pandas
-- ![NumPy](https://example.com/numpy-icon.png) NumPy
-- ![Matplotlib](https://example.com/matplotlib-icon.png) Matplotlib
-- ![Seaborn](https://example.com/seaborn-icon.png) Seaborn
-- ![Scikit-Learn](https://example.com/scikit-learn-icon.png) Scikit-Learn
++ - ![Python]() Python
++ - ![Jupyter Notebooks]() Jupyter Notebooks
++ - ![Pandas]() Pandas
++ - ![NumPy]() NumPy
++ - ![Matplotlib]() Matplotlib
++ - ![Seaborn]() Seaborn
++ - ![Scikit-Learn]() Scikit-Learn
 
 
 
