@@ -4,7 +4,7 @@
 <br />
   <div align='center'>
   
-<h1> <strong> Bienvenid@s a  'Fintech Fraud Solutions' </strong> </h1></div>
+<h1> <strong> Bienvenid@s a  'Fintech Solutions' </strong> </h1></div>
 <div>
   <p>
     <strong> Sistema de Predicción de Fraude en Transacciones Financieras </strong>. Ofrecemos una solución práctica y simple para ayudar a identificar las transacciones fraudulentas y detectandolas con la mayor performance posible.
@@ -20,7 +20,15 @@
  
 </div>
 
+<!-- ABOUT THE PROJECT -->
+<br>
+<h1> 
+Acerca del Proyecto
+</h1>
 
+'Fintech Solutions' es un Sistema de ........</b>. 
+
+<strong></strong>
 
 
 ## **Introducción**⚠️ 🚧
