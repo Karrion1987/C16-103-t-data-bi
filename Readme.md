@@ -7,7 +7,7 @@
 <h3>Bienvenid@s a Fintech Fraud Solutions </h3></div>
 <div>
   <p>
-    <strong>Sistema de Predicción de Fraude en Transacciones Financieras</strong>. Ofrecemos una solución práctica y simple para ayudar a identificar las transacciones fraudulentas y marcarlas con la mayor performance posible.
+    <strong>Sistema de Predicción de Fraude en Transacciones Financieras</strong>. Ofrecemos una solución práctica y simple para ayudar a identificar las transacciones fraudulentas y detectandolas con la mayor performance posible.
 
   </p>
  
