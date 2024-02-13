@@ -206,7 +206,7 @@ Este es un ejemplo de 1 fila con explicación de encabezados:
   
 
 
-![Mapa de Calor]()
+
 
 
 
