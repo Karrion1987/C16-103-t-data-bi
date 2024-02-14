@@ -221,27 +221,150 @@ Este es un ejemplo de 1 fila con explicación de encabezados:
 ## **Conclusiones**⚠️ 🚧
 
 
-
 <!-- TEAMS -->
 
-<h1>Equipo (c14-22-ft-java-react)</h1>
+<h1> Equipo ( c16-103-t-data-bi )
+</h1>
 
-<style>
-  .avatar-container {
-    text-align: center;
-  }
-
-  .avatar-container img {
-    border-radius: 50%;
-  }
-
-  .profile-info {
-    margin-top: 1rem;
-    text-align: center;
-  }
-</style>
-
-
+<table align='center'>
+  <tr>
+    <td align='center'>
+      <div >
+        <a href="https://github.com/Karrion1987" target="_blank" rel="author">
+          <img width="110" src="https://avatars.githubusercontent.com/u/138166529?v=4"/>
+        </a>
+        <a href="https://github.com/Karrion1987" target="_blank" rel="author">
+          <h4 style="margin-top: 1rem;">Allan Alvarez</br><small>Data Scientist</small></h4>
+        </a>
+        <div style='display: flex; flex-direction: column'>
+        <a href="https://github.com/Karrion1987" target="_blank">
+          <img style='width:8rem' src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=172B4D&logo=GitHub&logoColor=FFFFFF&label="/>
+        </a>
+        <a href="https://www.linkedin.com/in/allan-alvarez-gonzalez-6783a2256/" target="_blank">
+          <img style='width:8rem' src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+        </a>
+        </div>
+      </div>
+    </td>
+    <td align='center'>
+      <div >
+        <a href="https://github.com/valec3" target="_blank" rel="author">
+          <img width="110" src="https://raw.githubusercontent.com/karinakozlowski/imagenes/main/No%20country4.jpg"/>
+        </a>
+        <a href="https://github.com/valec3" target="_blank" rel="author">
+          <h4 style="margin-top: 1rem;">Victor Maye</br><small>Data Scientist</small></h4>
+        </a>
+        <div style='display: flex; flex-direction: column'>
+        <a href="https://github.com/valec3" target="_blank">
+          <img style='width:8rem' src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=172B4D&logo=GitHub&logoColor=FFFFFF&label="/>
+        </a>
+        <a href="https://www.linkedin.com/in/victormaye-data-scientist/" target="_blank">
+          <img style='width:8rem' src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+        </a>
+        </div>
+      </div>
+    </td>
+    <td align='center'>
+      <div >
+        <a href="https://github.com/DataJose1" target="_blank" rel="author">
+          <img width="110" src="https://raw.githubusercontent.com/karinakozlowski/imagenes/main/No%20country3.jpg"/>
+        </a>
+        <a href="https://github.com/DataJose1" target="_blank" rel="author">
+          <h4 style="margin-top: 1rem;">Jose Vidaurre</br><small>Analista de Bi</small></h4>
+        </a>
+        <div style='display: flex; flex-direction: column'>
+        <a href="https://github.com/DataJose1" target="_blank">
+          <img style='width:8rem' src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=172B4D&logo=GitHub&logoColor=FFFFFF&label="/>
+        </a>
+        <a href="https://www.linkedin.com/in/josevidaurre-dataanalyst/" target="_blank">
+          <img style='width:8rem' src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+        </a>
+        </div>
+      </div>
+    </td>
+  </tr>
+  </table>
+  <table align='center'>
+<tr>
+<td align='center'>
+      <div >
+        <a href="http://github.com/hernandroz" target="_blank" rel="author">
+          <img width="110" src="https://raw.githubusercontent.com/karinakozlowski/imagenes/main/No%20country1.jpg"/>
+        </a>
+        <a href="http://github.com/hernandroz" target="_blank" rel="author">
+          <h4 style="margin-top: 1rem;">Hernán Rodriguez</br><small>Analista de Bi</small></h4>
+        </a>
+        <div style='display: flex; flex-direction: column'>
+        <a href="http://github.com/hernandroz" target="_blank">
+          <img style='width:8rem' src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=172B4D&logo=GitHub&logoColor=FFFFFF&label="/>
+        </a>
+        <a href="http://linkedin.com/in/hernandroz" target="_blank">
+          <img style='width:8rem' src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+        </a>
+        </div>
+      </div>
+    </td>
+<td align='center'>
+      <div >
+        <a href="https://github.com/elequipoderiki" target="_blank" rel="author">
+          <img width="110" src="https://raw.githubusercontent.com/karinakozlowski/imagenes/main/No%20country5.jpg"/>
+        </a>
+        <a href="https://github.com/elequipoderiki" target="_blank" rel="author">
+          <h4 style="margin-top: 1rem;">Ricardo Ramos</br><small>Data Engineer</small></h4>
+        </a>
+        <div style='display: flex; flex-direction: column'>
+        <a href="https://github.com/elequipoderiki" target="_blank">
+          <img style='width:8rem' src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=172B4D&logo=GitHub&logoColor=FFFFFF&label="/>
+        </a>
+        <a href="https://www.linkedin.com/in/ricardo-german-ramos/" target="_blank">
+          <img style='width:8rem' src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+        </a>
+        </div>
+      </div>
+    </td>
+  
+</tr>
+</table>
+<table align='center'>
+  <tr>
+<td align='center'>
+      <div >
+        <a href="https://github.com/Oliver-92" target="_blank" rel="author">
+          <img width="110" src="https://raw.githubusercontent.com/karinakozlowski/imagenes/main/No%20country6.jpg"/>
+        </a>
+        <a href="https://github.com/Oliver-92" target="_blank" rel="author">
+          <h4 style="margin-top: 1rem;">Ezequiel Oliver</br><small>Data Analyst</small></h4>
+        </a>
+        <div style='display: flex; flex-direction: column; width: 100%'>
+        <a href="https://github.com/Oliver-92" target="_blank">
+          <img style='width:8rem' src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=172B4D&logo=GitHub&logoColor=FFFFFF&label="/>
+        </a>
+        <a href="https://www.linkedin.com/in/ezequiel-oliver/" target="_blank">
+          <img style='width:8rem' src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+        </a>
+        </div>
+      </div>
+    </td>
+    <td align='center'>
+      <div >
+        <a href="https://github.com/karinakozlowski" target="_blank" rel="author">
+          <img width="110" src="https://raw.githubusercontent.com/karinakozlowski/imagenes/main/No%20country2.jpg"/>
+        </a>
+        <a href="https://github.com/karinakozlowski" target="_blank" rel="author">
+          <h4 style="margin-top: 1rem;">Melina Valdez</br><small>QA</small></h4>
+        </a>
+        <div style='display: flex; flex-direction: column'>
+        <a href="https://github.com/karinakozlowski" target="_blank">
+          <img style='width:8rem' src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=172B4D&logo=GitHub&logoColor=FFFFFF&label="/>
+        </a>
+        <a href="https://www.linkedin.com/in/karina-kozlowski-625535217/" target="_blank">
+          <img style='width:8rem' src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+        </a>
+        </div>
+      </div>
+    </td>
+    </tr>
+</table>
 
 
 
