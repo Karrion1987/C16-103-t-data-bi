@@ -351,7 +351,7 @@ Este es un ejemplo de 1 fila con explicación de encabezados:
           <img width="110" src="https://raw.githubusercontent.com/karinakozlowski/imagenes/main/No%20country2.jpg"/>
         </a>
         <a href="https://github.com/karinakozlowski" target="_blank" rel="author">
-          <h4 style="margin-top: 1rem;">Melina Valdez</br><small>QA</small></h4>
+          <h4 style="margin-top: 1rem;">Karina Kozlowski</br><small>Machine Learning Developer</small></h4>
         </a>
         <div style='display: flex; flex-direction: column'>
         <a href="https://github.com/karinakozlowski" target="_blank">
