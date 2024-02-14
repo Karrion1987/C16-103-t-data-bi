@@ -71,7 +71,7 @@ Detección de fraude en transacciones de dinero móvil. Predecir si la transacci
 ## **Desarrollo**⚠️ 🚧
 
 
-+ `Proceso de ETL (Extracción, limpieza y carga de datos)` [ETL]() 
++ `Proceso de ETL (Extracción, transformación y carga de datos)` [ETL]() 
 
 + `Proceso de EDA (Análisis Exploratorio de los datos)`  [EDA]()
 
