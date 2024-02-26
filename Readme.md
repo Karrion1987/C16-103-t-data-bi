@@ -6,19 +6,19 @@
   
 <h1> <strong> Bienvenid@s a  'Fintech Solutions' </strong> </h1></div>
 <div>
-  <p>
+   <p>
     <strong> Sistema de Predicción de Fraude en Transacciones Financieras </strong>. Ofrecemos una solución práctica y simple para ayudar a identificar las transacciones fraudulentas y detectandolas con la mayor performance posible.
-
   </p>
     <div align='center'>
-    <a href="">
-          <img  src="https://img.shields.io/badge/VER_DEMO-3378FF?style=for-the-badge&logo=vercel&logoColor=%23343B4E"/>
+    <a href="" target="_blank" target="_blank">
+          <img  src="https://github.com/karinakozlowski/Data_Siniestros_Viales/blob/main/6_Assets/BotonAPP.png"/>
        </a>
-   <a href="" target="_blank">
-          <img  src="https://img.shields.io/badge/VER_API-3378FF?style=for-the-badge&logo=swagger&logoColor=%23343B4E"/>
+   <a href="">
+          <img  src="https://github.com/karinakozlowski/Data_Siniestros_Viales/blob/main/6_Assets/Boton01.png"/>
       </a>
- 
+      </div>
 </div>
+
 
 
 
@@ -70,6 +70,7 @@ Detección de fraude en transacciones de dinero móvil. Predecir si la transacci
 
 ## **Desarrollo**⚠️ 🚧
 
+![Diagrama pasos](https://github.com/No-Country/C16-103-t-data-bi/blob/main/Assets/Diagrama%20Pasos.jpg) 
 
 + `Proceso de ETL (Extracción, transformación y carga de datos)` [ETL]() 
 
@@ -121,9 +122,13 @@ Los valores atípicos pueden ser de dos tipos: univariados y multivariados. Arri
 
 
 
++ `Modelado de Machine Learning` [ML]()
 
 
-+ `Modelado de Machine Learning` [ML]() 
+![Diagrama pasos](https://github.com/No-Country/C16-103-t-data-bi/blob/main/Assets/Imagen%20de%20WhatsApp%202024-02-25%20a%20las%2023.42.33_b517ffec.jpg)
+
+
+  
 En la detección de fraudes financieros, se utilizan diversos modelos de aprendizaje automático para identificar patrones y anomalías en grandes conjuntos de datos. Algunos de los modelos más aplicados son:
 
 1. *Regresión Logística:*
