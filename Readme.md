@@ -122,9 +122,13 @@ Los valores atípicos pueden ser de dos tipos: univariados y multivariados. Arri
 
 
 
++ `Modelado de Machine Learning` [ML]()
 
 
-+ `Modelado de Machine Learning` [ML]() 
+![Diagrama pasos](https://github.com/No-Country/C16-103-t-data-bi/blob/main/Assets/Imagen%20de%20WhatsApp%202024-02-25%20a%20las%2023.42.33_b517ffec.jpg)
+
+
+  
 En la detección de fraudes financieros, se utilizan diversos modelos de aprendizaje automático para identificar patrones y anomalías en grandes conjuntos de datos. Algunos de los modelos más aplicados son:
 
 1. *Regresión Logística:*
