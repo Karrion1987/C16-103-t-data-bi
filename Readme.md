@@ -125,7 +125,7 @@ Los valores atípicos pueden ser de dos tipos: univariados y multivariados. Arri
 
 
 
-+ `Modelado de Machine Learning` [ML]()
++ `Modelado de Machine Learning` 
 
 
 ![Diagrama pasos](https://github.com/No-Country/C16-103-t-data-bi/blob/main/Assets/Imagen%20de%20WhatsApp%202024-02-25%20a%20las%2023.42.33_b517ffec.jpg)
@@ -161,7 +161,6 @@ En la detección de fraudes financieros, se utilizan diversos modelos de aprendi
 Es importante destacar que, en muchos casos, se utilizan enfoques combinados o ensamblajes de varios modelos para mejorar la precisión y robustez en la detección de fraudes financieros. Además, la elección del modelo depende en gran medida de la naturaleza de los datos y de la complejidad del problema específico que se está abordando.
 
 
-+ `Dashboard` [Dashboard]() 
 
 ### Datos⛔
 
@@ -206,27 +205,12 @@ Este es un ejemplo de 1 fila con explicación de encabezados:
 
 
 
+ ## **APP Detección de Fraudes**⚠️ 🚧
 
-
-### Análisis de los datos⛔
-
-
-  
+![Diagrama pasos](Assets/App.jpg)
 
 
 
-
-
-
-### Indicadores de Rendimiento Clave KPI⛔
-
-
-
-
-
-
-
-## **Conclusiones**⚠️ 🚧
 
 
 <!-- TEAMS -->
