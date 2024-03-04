@@ -7,6 +7,8 @@ from pydantic import BaseModel
 app = FastAPI()
 origins = [
     "http://localhost:8080",
+    "https://deteccion-fraude.streamlit.app",
+    "http://localhost:8501"
 ]
 
 app.add_middleware(
@@ -18,7 +20,7 @@ app.add_middleware(
 )
 
 class PredictionData(BaseModel):
-    step: float
+    step: int
     monto: float
     oldbalanceOrg: float
     oldbalanceDest: float

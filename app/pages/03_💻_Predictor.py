@@ -6,24 +6,37 @@ st.set_page_config(layout="centered")
 st.header("Formulario para predecir transacciones fraudulentas")
 
 with st.form("form_predict"):
-    st.text_input("Monto", key="amount", placeholder="ejemplo 9000")
-    st.text_input("Fecha", key="date", placeholder="ejemplo 2021-12-31")
-    st.text_input("Hora", key="time", placeholder="ejemplo 12:00:00")
-    st.selectbox("Tipo de transacción", ["Transferencia", "Cash-in"], key="type")
-    st.selectbox("Horario", ["Mañana", "Tarde", "Noche"], key="schedule")
+    st.write("Por favor, ingrese los datos de la transacción")
+    step = st.number_input("Step",min_value=0)
+    monto = st.number_input("Monto",min_value=0)
+    oldbalanceOrg = st.number_input("OldbalanceOrg",min_value=0)
+    oldbalanceDest = st.number_input("OldbalanceDest",min_value=0)
+    type_transfer = st.selectbox("Tipo de transacción",["CASH_OUT","TRANSFER"])
+    horario = st.selectbox("Horario",["Mañana","Tarde","Noche"])
+    fin_de_semana = st.checkbox("¿La transacción se realizó en fin de semana?")
     submitted = st.form_submit_button("Predecir")
-
+    
 if submitted: 
     data = {
-        "amount": st.session_state.amount,
-        "date": st.session_state.date,
-        "time": st.session_state.time,
-        "type": st.session_state.type,
-        "schedule": st.session_state.schedule,
+        "step": step,
+        "monto": monto,
+        "oldbalanceOrg": oldbalanceOrg,
+        "oldbalanceDest": oldbalanceDest,
+        "type_CASH_OUT": 0,
+        "type_TRANSFER": 0,
+        "fin_de_semana": fin_de_semana,
+        "mañana": 0,
+        "noche": 0,
+        "tarde": 0
     }
+    data[f"type_{type_transfer}"] = 1
+    data[f"{horario.lower()}"] = 1
     prediction = predict(data)
     
-    if prediction == "Fraude":
+    if prediction:
         st.error("Transacción fraudulenta",icon="🚨")
     else:
         st.success("Transacción segura",icon="✅")
+    # st.write(data)
+    
+    
