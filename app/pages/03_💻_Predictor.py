@@ -32,8 +32,7 @@ if submitted:
     data[f"type_{type_transfer}"] = 1
     data[f"{horario.lower()}"] = 1
     prediction = predict(data)
-    
-    if prediction:
+    if prediction["prediction"]:
         st.error("Transacción fraudulenta",icon="🚨")
     else:
         st.success("Transacción segura",icon="✅")
