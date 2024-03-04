@@ -1,5 +1,5 @@
 import requests
-URL_API = 'http://127.0.0.1:8000/predict/'
+URL_API = 'https://c16-103-t-data-bi.onrender.com/predict/'
 
 
 # option with API 
