@@ -70,7 +70,10 @@ Detección de fraude en transacciones de dinero móvil. Predecir si la transacci
 
 ## **Desarrollo**⚠️ 🚧
 
-![Diagrama pasos](https://github.com/No-Country/C16-103-t-data-bi/blob/main/Assets/Diagrama%20Pasos.jpg) 
+![Diagrama pasos](Assets/Pasos.png) 
+![Dashbaord](Assets/Dasboard1.jpg) 
+![Dashbaord](Assets/Dashboard2.jpg) 
+
 
 + `Proceso de ETL (Extracción, transformación y carga de datos)` [ETL]() 
 
