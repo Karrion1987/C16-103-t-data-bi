@@ -7,7 +7,7 @@ st.header("Formulario para predecir transacciones fraudulentas")
 
 with st.form("form_predict"):
     st.write("Por favor, ingrese los datos de la transacción")
-    step = st.number_input("Hora",min_value=0)
+    step = st.number_input("Dia del mes",min_value=0,max_value=31)
     monto = st.number_input("Monto",min_value=0)
     oldbalanceOrg = st.number_input("Saldo Anterior Origen",min_value=0)
     oldbalanceDest = st.number_input("Saldo Anterior Destino",min_value=0)
@@ -18,7 +18,7 @@ with st.form("form_predict"):
     
 if submitted: 
     data = {
-        "step": step,
+        "step": step*24,
         "monto": monto,
         "oldbalanceOrg": oldbalanceOrg,
         "oldbalanceDest": oldbalanceDest,
