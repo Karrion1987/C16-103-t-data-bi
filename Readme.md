@@ -26,7 +26,7 @@
 
 
 <h2> 
-Introducción⚠️ 🚧
+Introducción
 </h2>
 
 **Sistema de Predicción de Fraude en Transacciones Financieras:** Ofrecemos una solución práctica y simple para ayudar a identificar las transacciones fraudulentas y detectandolas con la mayor performance posible.
@@ -36,7 +36,7 @@ Desde la llegada de Internet, la revolución digital ha aumentado y se ha infilt
 
  [Datos oficiales]()
 
-## **Contexto**⚠️ 🚧
+## **Contexto**
 
  Un intento ilegal en este conjunto de datos es por ejemplo un intento de transferir más de 200.000 dolares en una sola transacción.
 
@@ -73,7 +73,7 @@ Detección de fraude en transacciones de dinero móvil. Predecir si la transacci
 
 
 
-## **Desarrollo**⚠️ 🚧
+## **Desarrollo**
 
 ![Diagrama pasos](Assets/Presentacion_Fintech_Pasos.jpg) 
 ![Dashbaord](Assets/Dashboard1.png) 
@@ -210,7 +210,7 @@ Este es un ejemplo de 1 fila con explicación de encabezados:
 
 
 
- ## **APP Detección de Fraudes**⚠️ 🚧
+ ## **APP Detección de Fraudes**
 
 ![Diagrama pasos](Assets/App.jpg)
 
