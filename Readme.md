@@ -65,6 +65,7 @@ Detección de fraude en transacciones de dinero móvil. Predecir si la transacci
 
 + Python
 + Jupyter Notebooks
++ Power BI
 + Pandas
 + NumPy
 + Matplotlib
