@@ -76,8 +76,8 @@ Detección de fraude en transacciones de dinero móvil. Predecir si la transacci
 ## **Desarrollo**⚠️ 🚧
 
 ![Diagrama pasos](Assets/Presentacion_Fintech_Pasos.jpg) 
-![Dashbaord](Assets/Dasboard1.jpg) 
-![Dashbaord](Assets/Dashboard2.jpg) 
+![Dashbaord](Assets/Dashboard1.png) 
+![Dashbaord](Assets/Dashboard2.png) 
 
 
 + `Proceso de ETL (Extracción, transformación y carga de datos)` [ETL]() 
