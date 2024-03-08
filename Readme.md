@@ -167,7 +167,7 @@ Es importante destacar que, en muchos casos, se utilizan enfoques combinados o e
 
 
 
-### Datos⛔
+### Datos
 
 El conjunto de datos se puede descargar desde: https://www.kaggle.com/ntnu-testimon/paysim1
 
