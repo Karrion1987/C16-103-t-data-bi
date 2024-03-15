@@ -34,7 +34,7 @@ Introducción
 
 Desde la llegada de Internet, la revolución digital ha aumentado y se ha infiltrado en todos los aspectos de nuestras vidas. Una de las revoluciones digitales más importantes ocurrió en el sistema financiero y especialmente en las transacciones de dinero a alguien de cualquier parte del mundo de forma digital. Las transacciones digitales se han convertido en parte de la vida diaria, como comprar un producto en línea, enviar dinero a amigos, depositar efectivo en una cuenta bancaria, fines de inversión, etc. Tenían muchos beneficios y allanaron el camino para actividades fraudulentas. La gente comenzó a utilizar un medio de transacciones de dinero digital para lavar dinero y hacer que parezca que proviene de una fuente legal. 
 
- [Datos oficiales]()
+ [Datos oficiales](EDA/EDA.ipynb)
 
 ## **Contexto**
 
@@ -81,9 +81,9 @@ Detección de fraude en transacciones de dinero móvil. Predecir si la transacci
 ![Dashbaord](Assets/Dashboard2.png) 
 
 
-+ `Proceso de ETL (Extracción, transformación y carga de datos)` [ETL]() 
++ `Proceso de ETL (Extracción, transformación y carga de datos)` [ETL](EDA/EDA.ipynb)
 
-+ `Proceso de EDA (Análisis Exploratorio de los datos)`  [EDA]()
++ `Proceso de EDA (Análisis Exploratorio de los datos)`  [EDA](EDA/EDA.ipynb)
 
 Las primeras visualizaciones contienen el número de transacciones según el tipo de transacción, tipo de remitente y destinatario.
 
@@ -134,7 +134,7 @@ Los valores atípicos pueden ser de dos tipos: univariados y multivariados. Arri
 + `Modelado de Machine Learning` 
 
 
-![Diagrama pasos](Assets/MachineL-Pipeline.gif)
+![Modelo Machine Learning](Assets/MachineL-Pipeline.gif)
 
 
   
