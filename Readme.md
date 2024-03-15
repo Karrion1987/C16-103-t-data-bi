@@ -7,20 +7,20 @@
   <div align='center'>
   
 </div>
+</div>
 <div>
    <p>
     
   </p>
     <div align='center'>
-    <a href="https://deteccion-fraude.streamlit.app/" target="_blank" target="_blank">
+    <a href="https://fintechsolutions3.mydurable.com/es" target="_blank" target="_blank">
           <img  src="https://github.com/karinakozlowski/Data_Siniestros_Viales/blob/main/6_Assets/BotonAPP.png"/>
        </a>
-   <a href="https://deteccion-fraude.streamlit.app/">
+   <a href="https://www.youtube.com/watch?v=7bFeY4MfLls&ab_channel=ElGanador%28IDF%29">
           <img  src="https://github.com/karinakozlowski/Data_Siniestros_Viales/blob/main/6_Assets/Boton01.png"/>
       </a>
       </div>
 </div>
-
 
 
 
@@ -134,7 +134,7 @@ Los valores atípicos pueden ser de dos tipos: univariados y multivariados. Arri
 + `Modelado de Machine Learning` 
 
 
-![Diagrama pasos](https://github.com/No-Country/C16-103-t-data-bi/blob/main/Assets/Imagen%20de%20WhatsApp%202024-02-25%20a%20las%2023.42.33_b517ffec.jpg)
+![Diagrama pasos](Assets/MachineL-Pipeline.gif)
 
 
   
